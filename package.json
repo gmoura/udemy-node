@@ -1,0 +1,22 @@
+{
+  "name": "udemy-node-course",
+  "version": "1.0.0",
+  "description": "nodejs developer course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoura/udemy-node.git"
+  },
+  "author": "Guilherme Moura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmoura/udemy-node/issues"
+  },
+  "homepage": "https://github.com/gmoura/udemy-node#readme",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
